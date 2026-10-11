@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WengWeng.aternos.me:64769",
+    "ip": "WengWeng.aternos.me",
     "port": 64769,
     "version": "",
     "try-creative": false
